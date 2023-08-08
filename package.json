@@ -2,7 +2,7 @@
     "name": "one-ocean-high-contrast",
     "displayName": "One Ocean High Contrast",
     "description": "A colorscheme which inspired from `Ocean High Contrast` and `One Dark Pro`",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "repository": "https://github.com/godotc/one-ocean-high-contrast",
     "publisher": "godot42",
     "engines": {

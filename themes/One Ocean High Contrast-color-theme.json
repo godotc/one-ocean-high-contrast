@@ -1,5 +1,15 @@
 {
 	"name": "One Ocean High Contrast",
+	"semanticHighlighting": true,
+	"semanticTokenColors": {
+		"comment": {
+			"foreground": "#8e9198",
+			"strikethrough":true,
+			// "underline": true,
+			// "bold": false,
+			// "italic": true
+		}
+	},
 	"colors": {
 		"activityBar.activeBorder": "#6d5cff",
 		"activityBar.background": "#090b10",
@@ -757,6 +767,6 @@
 			"settings": {
 				"foreground": "#B267E6"
 			}
-		}
+		},
 	]
 }
