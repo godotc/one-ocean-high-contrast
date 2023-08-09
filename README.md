@@ -1,4 +1,4 @@
 # One Ocean High Contrast
 
 
-The vscode theme which derive from `OneDark` & `Oceanic`
+The vscode theme derived from `OneDark` & `Oceanic`.

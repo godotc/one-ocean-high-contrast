@@ -558,7 +558,13 @@
 		{
 			"scope": "source.cpp meta.block variable.other",
 			"settings": {
-				"foreground": "#e6eafc00"
+				"foreground": "#657070c8"
+			}
+		},
+		{
+			"scope" :"variable.other.property",
+			"settings": {
+				"foreground": "#3cb8c3c2",
 			}
 		},
 		{
