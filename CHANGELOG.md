@@ -1,5 +1,8 @@
 # Change Log
 
+- V0.0.5
+  - Remove the strike-through style on comment or precessor, because it's too noisy for readding and will affect non-precessor syntax in some languages beside the `cpp` (e.g dart)
+  - Adjust the color at the edge of editor and pannel(bottoem)
 
 - V0.0.4
   - Fix variable style. It is too low contrast and tight color to figure out in some conditions (occured in gtest macro)

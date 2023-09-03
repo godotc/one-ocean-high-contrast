@@ -2,7 +2,7 @@
     "name": "one-ocean-high-contrast",
     "displayName": "One Ocean High Contrast",
     "description": "The One Ocean Hight Contrast colorscheme for vscode",
-    "version": "0.0.4",
+    "version": "0.0.5",
     "repository": "https://github.com/godotc/one-ocean-high-contrast",
     "publisher": "godot42",
     "engines": {
